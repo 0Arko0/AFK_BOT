@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "skibidi_gyatt.aternos.me:26510",
+    "ip": "skibidi_gyatt.aternos.me",
     "port": 26510,
     "version": "",
     "try-creative": false
