@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "AFK_Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "TATI",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "skibidi_gyatt.aternos.me",
+    "port": 26510,
     "version": "",
     "try-creative": false
   },
@@ -19,7 +19,7 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
+      "enabled": false,
       "password": "chalol78"
     },
     "anti-afk": {
@@ -31,8 +31,8 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
+        "I'm a mc",
+        "Best goons!",
         "I like to play Minecraft!"
       ]
     },
